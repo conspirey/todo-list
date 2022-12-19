@@ -6,5 +6,7 @@
 |Domain| - | no |
 |Websocket server/client| no| no |
 |Static file route| no| yes |
-|Tailwind css| no | - |
+|Tailwind css| yes | - |
 |Encryption for sensitive data| -| no |
+
+### 2/12 done
