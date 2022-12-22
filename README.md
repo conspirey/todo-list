@@ -4,9 +4,9 @@
 |Logging into an account| no| no |
 |Database| - | no |
 |Domain| - | no |
-|Websocket server/client| no| no |
+|Websocket server/client| yes | yes |
 |Static file route| no| yes |
 |Tailwind css| yes | - |
 |Encryption for sensitive data| -| no |
 
-### 2/12 done
+### 4/12 done
