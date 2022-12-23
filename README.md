@@ -2,11 +2,12 @@
 |----------------|---------------|---------------|
 |Registering account| no| no |
 |Logging into an account| no| no |
-|Database| - | no |
+|Sessions| - | yes |
+|Database| - | yes |
 |Domain| - | no |
 |Websocket server/client| yes | yes |
-|Static file route| no| yes |
+|Static file route| - | yes |
 |Tailwind css| yes | - |
 |Encryption for sensitive data| -| no |
 
-### 4/12 done
+### 6/12 done
