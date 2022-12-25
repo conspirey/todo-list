@@ -9,5 +9,5 @@
 |Static file route| - | yes |
 |Tailwind css| yes | - |
 |Encryption for sensitive data| -| no |
-
-### 6/12 done
+|ID generation for user| -| yes |
+### 7/13 done
